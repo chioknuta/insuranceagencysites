@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+# Sample agency sites are fictional and carry noindex on every page.
+Disallow: /samples/
+
+Sitemap: https://insuranceagencysites.com/sitemap-index.xml
