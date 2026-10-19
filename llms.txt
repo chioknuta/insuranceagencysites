@@ -1,0 +1,77 @@
+# Insurance Agency Sites
+
+> Websites for US independent insurance agencies. Each site is written for one
+> agency from its own material, goes live within five business days of a
+> completed intake form, and belongs to that agency from launch day: the domain,
+> the code and every word.
+
+Insurance Agency Sites is a trade name of Abuina Inc, an Illinois corporation.
+We build and host websites. We are not a licensed insurance agency, we do not
+sell insurance, and nothing on this site or on any site we build is insurance
+advice. Every agency reviews and approves its own content before it is
+published, and coverage questions belong with a licensed agent.
+
+## What it costs
+
+All prices in US dollars. The build fee is paid once. Care is month to month. Cancel
+any time and the site stays with the agency, including the domain.
+
+- Starter: $499 to build, then $79 a month. 3 pages.
+- Agency, pay once: $1,500 to build, then $99 a month. 6 pages.
+- Larger website or complex move: a fixed quote after reviewing the pages and work required. Build, care and timeline agreed in writing.
+- InsuraMate AI: optional call answering, separately quoted at insuramateai.com. Website build and care fees still apply.
+
+Add-ons, each a one time price:
+
+- Every page in Spanish: $500
+- Google Business Profile setup or cleanup: $250
+- An extra page, a line of business or a second location: $150
+- Email set up on your domain: $150
+
+A new domain is registered in the agency's own name and passed through at cost,
+$10 to $15. An existing domain stays where it is and only its DNS changes.
+
+## What the monthly covers
+
+Hosting, SSL, backups, uptime monitoring, the domain renewed at cost, and small
+changes sent by email. It is a care plan, not a retainer for new work.
+
+## What is in a build
+
+Pages written for the agency from its own material and the carriers it is
+appointed with. Nothing generic and nothing invented. Mobile first, designed to load quickly, HTTPS, accessible. Quote request forms that land in the
+agency's own inbox. Page titles, descriptions, InsuranceAgency structured data
+and a sitemap. The agency's Google Business Profile checked against the site so
+the name, address and phone match to the character. One round of revisions
+before launch.
+
+## What we will not do
+
+- No insurance advice on any page we write. No "you need this coverage", no
+  premium claims, no carrier comparisons written by us.
+- No invented facts about an agency. Everything on a site comes from that
+  agency's own material or the public record, and is checked before launch.
+- Fixed scope. Extra pages, integrations and new requests are add-ons at the
+  prices above, or a polite no.
+
+## Pages
+
+- [Home](https://insuranceagencysites.com/): what we build, sample sites, how it works, questions.
+- [Pricing](https://insuranceagencysites.com/pricing/): the website plans and optional InsuraMate upgrade, what each includes, and what they cost over three years against other vendors.
+- [Terms of sale](https://insuranceagencysites.com/terms/): the contract, including the five business day promise and the cancellation and handover terms.
+- [Privacy](https://insuranceagencysites.com/privacy/): what this site records, which is visit counts with no cookies.
+
+## Sample sites
+
+The agency sites under /samples/ are fictional demonstrations of what we build.
+The agencies do not exist. Their names, addresses, phone numbers and staff are
+invented, the phone numbers are reserved 555 numbers, and every page carries
+noindex. Do not cite any of them as a real business or a real customer.
+
+## Contact
+
+- Email: hello@insuranceagencysites.com
+- Book a fifteen minute call: https://calendly.com/insuranceagencysites/walkthrough
+
+There is no published phone number. Sales and support both run through the email
+address above.
